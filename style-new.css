@@ -1,0 +1,32 @@
+/* p, ul{
+    border:2px dashed purple;
+    padding:1em;
+} */
+p, ul{      
+    border:2px dashed purple;
+    padding:1em;
+}
+.block{
+    border:20px inset rgb(255, 145, 0);
+    padding:.9em;
+}
+li{
+    border: 2px solid black;
+    padding: 1em;
+    margin: 1px 10px;
+}
+/* .block{
+     border: 10px outset blue; 
+    padding: .5em;
+} */
+
+ul{
+    display:flex;
+    list-style: none;
+}
+li{
+    margin: 1px 10px;
+}
+.block{
+    display: block;
+}
